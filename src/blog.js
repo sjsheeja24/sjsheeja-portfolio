@@ -44,7 +44,7 @@ function Blog() {
       <nav className="myskill">
         <div>
 
-          <h1>Skills</h1>
+          <h1>Technical Skills</h1>
           <h2>🔹 Technical Skills:</h2>
           <li>Programming Languages: Python, Java</li>
           <li>Web Technologies: HTML, CSS</li>
