@@ -60,6 +60,7 @@ function Blog() {
       <p>© 2025 Your Company Name. All Rights Reserved.</p>
     </footer>
     </div>
+    </div>
   );
 };
 
